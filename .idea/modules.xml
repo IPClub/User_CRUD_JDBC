@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IPC_JDBC.iml" filepath="$PROJECT_DIR$/.idea/modules/IPC_JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IPC_JDBC_main.iml" filepath="$PROJECT_DIR$/.idea/modules/IPC_JDBC_main.iml" group="IPC_JDBC" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IPC_JDBC_test.iml" filepath="$PROJECT_DIR$/.idea/modules/IPC_JDBC_test.iml" group="IPC_JDBC" />
+    </modules>
+  </component>
+</project>
